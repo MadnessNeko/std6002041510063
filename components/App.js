@@ -9,7 +9,6 @@ class App extends React.Component {
             <View>
                 <Header title="Album"></Header>
                 <Card></Card>
-                <Text>Somjade Wongriantong</Text>
             </View>
        );
     }

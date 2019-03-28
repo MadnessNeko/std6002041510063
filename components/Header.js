@@ -15,11 +15,11 @@ const styles = {
     header: {
         padding: 20,
         alignItems: 'center',
-        backgroundColor: '#BEBEBE'
+        backgroundColor: '#1E90FF'
     },
     text: {
         fontSize: 30,
-        color: '#FE0000'
+        color: '#FFFFFF'
     }
 }
 
